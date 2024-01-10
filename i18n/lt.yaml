@@ -1,0 +1,34 @@
+more:
+  other: "Kiti"
+allTitle:
+  other: "Visi {{ .Title }}"
+recentTitle:
+  other: "Naujausi {{ .Title }}"
+readMore:
+  other: "Skaityti toliau"
+by:
+  other: "Autorius –"
+whatsInThis:
+  other: "Kas šiame {{ .Type }}"
+related:
+  other: "Susiję"
+yourName:
+  other: "Jūsų vardas"
+emailAddress:
+  other: "El. pašto adresas"
+message:
+  other: "Žinutė"
+emailRequiredNote:
+  other: "El. pašto adresą nurodyti būtina."
+send:
+  other: "Siųsti"
+taxonomyPageList:
+  other: "Įrašai pagal raktažodį „{{ .Title }}“"
+readingTime:
+  one: "Skaitalas {{ .Count }} minutei"
+  few: "Skaitalas {{ .Count }} minutėms"
+  other: "Skaitalas {{ .Count }} minučių"
+wordCount:
+  one: "{{ .Count }} žodis"
+  few: "{{ .Count }} žodžiai"
+  other: "{{ .Count }} žodžių"

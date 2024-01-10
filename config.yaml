@@ -1,0 +1,26 @@
+url: http://kde.akl.lt/
+DefaultContentLanguage: lt
+title: KDE lietuviškai
+description: Apie KDE darbastalio aplinką ir jos vertimą
+theme: ananke
+permalinks:
+  page:
+    irasai: /įrašai/:slug/
+    /: /:slug/
+  term:
+    tags: /raktažodžiai/:slug/
+    categories: /kategorijos/:slug/
+  section:
+    irasai: /įrašai/
+uglyURLs: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  featured_image: /wp-content/uploads/2016/03/cropped-header-1-e1457468553761.jpg
+  date_format: :date_long
+  custom_css:
+    - custom.css
+    - https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
