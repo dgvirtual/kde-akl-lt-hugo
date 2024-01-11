@@ -72,3 +72,23 @@ Dar keletas pastabų dėl KNetworkManager:
  [4]: /wp-content/uploads/2009/01/knm_konfiguravimas3.jpeg
  [5]: /wp-content/uploads/2009/01/knm_konfiguravimas4.jpeg
  [6]: /wp-content/uploads/2009/01/knm_konfiguravimas5.jpeg
+
+## Komentarai
+
+### Vidmantas, 2009 m. sausio 25 d.
+Bent jau Omnitelis dalina kai kuriuos &#8222;flip-flop&#8221; tipo įrenginius, tai prieš konfigūruojant KNetworkManager, teks susirasti kaip perjungti USB įrenginuką į modemo rėžimą 🙂
+
+### linius, 2009 m. sausio 26 d.
+kad veiktu per Bluetooth, isidiegiau blueman&#8230;&#8230;
+
+### Donatas G., 2009 m. sausio 26 d.
+Liniau, o kaip naudoti tą blueman (ar bluemon)? Mielai papildyčiau šį howto&#8230; Ir pačiam man būtų naudinga.
+
+### Donatas G., 2009 m. sausio 26 d.
+Štai čia:  
+<a href="http://www.draisberghof.de/usb_modeswitch/" rel="nofollow ugc">http://www.draisberghof.de/usb_modeswitch/</a>  
+yra įrankis kai kuriems USB modemams pervesti iš „usb mass storage“ į modemo veikseną&#8230;
+
+### linius, 2009 m. kovo 15 d.
+<a href="http://blueman-project.org/" rel="nofollow ugc">http://blueman-project.org/</a>  
+čia išsamiai aprašoma kaip su blueman pagalba tvarkytis per bluetooth&#8230;.3G/EDGE/GPRS, Connecting to/Creating bluetooth networks, Connecting to input devices, Connecting to audio devices, Sending/Receiving/Browsing files via OBEX, Pairing&#8230;..

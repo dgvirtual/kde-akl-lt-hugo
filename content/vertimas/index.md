@@ -27,3 +27,11 @@ Taip pat naudingos informacijos rasite naršydami šios svetainės tinklarašči
  [5]: {{< relref "kde-vertimo-vadovas" >}}
  [6]: {{< relref "vertimo-vadovas" >}}
  [7]: /kategorijos/vertimas.html
+
+## Komentarai
+
+### Adomas Bosanova, 2008 m. gruodžio 5 d.
+Dauguma AKL projektų yra amžinoje rengimo stadijoje.
+
+### Donatas G., 2009 m. spalio 26 d.
+Ir pamažu juda į priekį 🙂

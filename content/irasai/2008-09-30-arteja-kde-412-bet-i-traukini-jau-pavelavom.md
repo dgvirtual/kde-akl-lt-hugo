@@ -23,3 +23,10 @@ Kitam leidimui vertimus gailime teikti iki spalio 29 d.
 Beje, rekomenduotina visų pirma išversti desktop_*.po failus, nes jų turinys yra labiausiai matomas KDE vartotojo sąsajoje.
 
  [1]: http://techbase.kde.org/Schedules/KDE4/4.1_Release_Schedule
+
+## Komentarai
+
+### dovydas, 2008 m. spalio 2 d.
+Negi lokalizavimo paketai atnaujinami tik išeinant naujai laidai? Man atrodo, kad dažniau. 
+
+Na, o svarbiausia, kad lietuvybė ten apskritai yra.

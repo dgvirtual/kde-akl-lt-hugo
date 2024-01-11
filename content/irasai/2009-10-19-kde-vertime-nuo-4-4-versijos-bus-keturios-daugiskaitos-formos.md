@@ -54,3 +54,12 @@ Taigi, nuo šiol, versdami naujus failus, turėsime gettext formato *.po failo a
 KDE programinės įrangos vertimo programoje Lokalize nuo 4.4 versijos bu galimybė pasirinkti keturių daugiskaitos formų eilutę vietoje šiuo metu standartinės trijų formų eilutės. O kol kas ją teks taisyti rankiniu būdu.
 
  [1]: http://www.gnu.org/software/gettext/
+
+## Komentarai
+
+### stikonas, 2009 m. spalio 19 d.
+Ačiū Donatui už šį pranešimą, kuriame sudėti visi reikalingi dalykai apie naujas daugiskaitų formas.
+
+„O kol kas ją teks taisyti rankiniu būdu.“
+
+Tą teks daryti tik tais retais ir išimtinais atvejais, kai nėra .pot failo atitinkančio .po failo. Kadangi aš laikas nuo laiko juos inicializuoju, tai taisyti daugiskaitos antraščių beveik neteks.

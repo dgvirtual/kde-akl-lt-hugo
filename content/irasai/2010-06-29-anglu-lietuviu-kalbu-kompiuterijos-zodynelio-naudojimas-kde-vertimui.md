@@ -66,3 +66,8 @@ Beje, ir slovo formato žodyną galite sujungti su atitinkamu kde terminynu, kur
  [6]: /newp/zodynai/alkkz-konvertavimas2.sh
  [7]: http://websvn.kde.org/*checkout*/trunk/l10n-kde4/lt/terms.tbx
  [8]: /newp/zodynai/generuoti/kde-specifiniai-terminai.dwa
+
+## Komentarai
+
+### 4, 2016 m. kovo 16 d.
+Beje taip pat geras internetinis žodynas su daugybe kompiuterinių terminų yra raštija.lt

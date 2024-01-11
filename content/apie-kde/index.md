@@ -48,3 +48,19 @@ Vėliau vėl būta pertrūkių be lietuviško vertimo: pvz., 2008 m. sausio mėn
  [7]: http://www.akl.lt/skaitykla/knygos/?doc=kde_atmintine.html
  [8]: http://www.akl.lt/skaitykla/knygos/?doc=grafine_aplinka_kde.html
  [9]: /wp-content/uploads/2008/09/nuo-w-prie-linux_kde_knyga.jpg
+
+## Komentarai
+
+### DziNNy, 2008 m. gruodžio 28 d.
+Smagi iniciatyva, bet bent šį tekstą sutvarkykit &#8211; &#8222;operacijų sistema&#8221; ir &#8222;KDE &#8211; tai tinklui permatoma, šiuolaikinė darbastalio aplinka&#8221; rėžia akį.
+
+### edvardas, 2009 m. kovo 17 d.
+as naudoju ubuntu ir kubuntu ir ziuriu jie dauk kuo skirias pvz kde aplinka yra vienintele kuria as daznai naudoju ,bet j9nai turi viena minusa nei menesio neislaiko kai kompiuteriu atsiunciau skype prasidejo visokios klaidos neatidaro failu bet kartais o gimp aplinka asd jos nenaudoju nes ji man nepatinka kodel nezinau bet y ubuntus parsisiunciu kde aplinka
+
+### Mindaugas, 2011 m. kovo 16 d.
+Pradedantieji naudoti KDE4 darbalaukio aplinką, labai trumpai apie ją gali pasiskaityti KDE4 pradžiamokslyje, kuris šiuo metu patalpintas <a href="http://ftp.akl.lt/users/embar/KDE4%20prad%C5%BEiamokslis.pdf" rel="nofollow ugc">http://ftp.akl.lt/users/embar/KDE4%20prad%C5%BEiamokslis.pdf</a> . Tai yra openSUSE dokumentacijos knygutės „KDE Quick Start“ vertimas.
+
+### Mindaugas, 2011 m. kovo 16 d.
+Aukščiau buvo nuoroda į PDF formato dokumentą.  
+Na o štai čia ir HTML versija:  
+<a href="http://ftp.akl.lt/users/embar/Dokumentacija/art.kdequick.html" rel="nofollow ugc">http://ftp.akl.lt/users/embar/Dokumentacija/art.kdequick.html</a>

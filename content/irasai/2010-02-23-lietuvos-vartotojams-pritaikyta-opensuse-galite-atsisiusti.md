@@ -20,3 +20,8 @@ Todėl štai jį visą pateikiu:
 Nepamiršti kodekai, HP LaserJet spausdintuvai, broadcom belaidžio ryšio programinė aparatinė įranga, testdisk, partimage…
 
 Lietukas šiaip kurtas asmeniam naudojimui, jis tėra būdas greitai išbandyti ir/ar įsidiegti openSUSE 11.2. Galima atsisiųsti iš <http://ftp.akl.lt/users/embar/>.“
+
+## Komentarai
+
+### Lietukas atnaujintas, 2015 m. sausio 26 d.
+„Lietuko“ svetainė persikėlusi į <a href="http://download.vikis.lt/lietukas/" rel="nofollow ugc">http://download.vikis.lt/lietukas/</a>

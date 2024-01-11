@@ -24,3 +24,25 @@ Joje – daug naujų galimybių, įskaitant ir kelias mane labai nudžiuginusias
 Šiek tiek pasikrapščius man pavyko pasigaminti ir DigiKam bei susijusios programos – kipi-plugins paketus Ubuntu Intrepid 8.10 versijai. Juos rasite čia: <http://files.akl.lt/users/dgvirtual/ubuntu-intrepid/>.
 
 Šiek tiek plačiau parašiau savo bloge: <http://dg.lapas.info/?p=349> .
+
+## Komentarai
+
+### apocalipso, 2009 m. kovo 26 d.
+Naudoju Gnoma, o nuotraukom Picasa. Nelabai turiu laiko viskam išmėginti bet būtų įdomu paskaityti lietuvišką apžvalga kuo geresnis/blogesnis viena tvarkymo programa nuo kitos.
+
+### Donatas G., 2009 m. balandžio 22 d.
+Man irgi būtų įdomu, kad kas palygintų skirtingas nuotraukų tvarkymo programas. Kiek suprantu, DigiKam, palyginus su picasa, būtų:
+
+* universalesnė; nuotraukas eksportuoti galima ne tik į picasaweb, bet ir į <a href="http://www.flickr.com" rel="nofollow">Flickr</a>, <a href="http://www.facebook.com" rel="nofollow">Facebook</a>, ar savo nuosavą <a href="http://gallery.menalto.com/" rel="nofollow">Gallery</a> nuotraukų archyvą.
+
+* lengvesnė ir greitesnė (bent jau Linux versija, nes ji nėra pastatyta ant Wine langinių suderinamumo sluoksnio, o veikia kaip vietinė programa)
+
+* spėju, kad turinti šiek tiek mažiau galimybių, nors negalėčiau to tvirtinti
+
+* geriau integruota į operacinę sistemą (bent jau KDE atveju)
+
+Tačiau iš tiesų tai negaliu lyginti, nes Picasa buvau paleidęs gal vieną kartą, ir iškart išjungiau, nes ji ėmėsi daryti visuotinę mano kompe esančių paveikslėlių reviziją&#8230;
+
+### Andrius, 2009 m. rugpjūčio 13 d.
+Picasa buvo mano pasirinkimas Nr.1. Bet kai nusibodo laukti video palaikymo, geo žymių&#8230; perėjau prie Digikam. Kol kas tai berods vienintelė nuotraukų tvarkyklė, veikianti Linux OS, palaikanti video failus.  
+Beje, redagavimo ir eksportavimo galimybės tikrai didesnės nei Picasa, tačiau keblesnis meniu.

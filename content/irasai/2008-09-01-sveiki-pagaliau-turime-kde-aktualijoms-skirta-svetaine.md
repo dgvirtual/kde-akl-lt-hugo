@@ -21,3 +21,17 @@ Kviečiame visus prisijungti rašant joje tekstus apie šaunią atvirojo kodo da
 
  [1]: http://www.akl.lt "AKL žiniatinklio svetainė"
  [2]: http://lt.l10n.kde.org "KDE lietuvinimo komandos svetainė"
+
+## Komentarai
+
+### dovydas, 2008 m. rugsėjo 2 d.
+Liuks.
+
+### Karolis484, 2008 m. rugsėjo 3 d.
+Dziugu isgirsti apie toki projekta 🙂 Nors as siuo metu naudoju Gnome su Ubuntu, bet esu &#8222;visom keturiom uz&#8221; jus . Nuosirdziai linkiu jums sekmes, stiprybes ir istvermes ! Kuo daugiau linux projektu vystomusi lietuvoje ir lietuviskai tuo smagiau 🙂
+
+### kilgoras trautas, 2008 m. rugsėjo 3 d.
+Sveikinimai visiems lietuvisko KDE naudotojams
+
+### Julyte, 2008 m. spalio 13 d.
+O as ir ant rusisko gerai jauciuosi :)))))

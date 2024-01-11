@@ -20,3 +20,18 @@ Taigi, prieš kelias dienas pastebėjau, kad kažkodėl nebegroja garso naršykl
 Plačiau apie PulseAudio naudojimo KDE aplinkoje ypatumus skaitykite šiame tinklaraščio įraše: [„PulseAudio, KDE ir adobe-flashplugin: keista mišrainė“][2]
 
  [2]: http://dg.lapas.info/?p=550
+
+## Komentarai
+
+### NerijusV, 2010 m. balandžio 27 d.
+Sveiki,
+
+Pas mane tai kita problema su garsu. Gana menkas garsas. Kiek visko isbandziau rezultatu nera. Gal kas zinot kaip pagarsint KDE 4.4.2 😀
+
+### Donatas G., 2010 m. balandžio 27 d.
+O PulseAudio paleistas, ar ne? 
+
+Jei be PulseAudio, pažiūrėk, ar visi reikiami kanalai maksimaliai pagarsinti. Pvz., Kmix lange pas mane kažkuri programa pritylina PCM kanalą, kuris numažina bendrą garsą, nors „Master“ kanale nustatyta 100% garsumo. Kartais tų reikiamų kanalų gali nerodyti; paieškok jų per meniu „Nustatymai“ > „Konfigūruoti kanalus“.
+
+### NerijusV, 2010 m. balandžio 28 d.
+he he he aciu kad pasakiai isimeciau i reguliavima daugiau kanalu ir visus max padariau tai kai uz griaudejo :DDDDDD thanks lb

@@ -17,3 +17,32 @@ P.S. Jei bus išversta pakankamai daug kokio nors failo vystymo atšakoje ir nor
 
  [1]: {{< relref "kde-vertimo-vadovas" >}}
  [2]: {{< relref "progresas" >}}
+
+## Komentarai
+
+### Donatas G., 2010 m. kovo 22 d.
+Puiku, veiksmas vyksta 🙂 Tik kodėl taip anksti pereiname prie „kamieno“ vertimo? Nors šiaip – jokios bėdos, jei galima „backportinti“ (o kaip šį žodį išversti)?
+
+### Andrius Štikonas, 2010 m. kovo 22 d.
+Kažkaip aš saugiau jaučiuosi, kad vertimai nepasimes, jei verčiame kamieną. O kaip išverst „backportint“ tai net neįsivaizduoju, matyt reikia kelių žodžiu. Gerai bent tai, kad šio žodžio lyg ir nėra KDE vertimuose.
+
+Dar toks klausimas: kaip verčiame mes KDE S.C. (kas reiškia KDE Software Compilation), taip ir paliekame, ar kaip nors verčiame?
+
+### Donatas G., 2010 m. balandžio 9 d.
+Dėl KDE S.C. – būtų gerai versti, bet reikia sugalvoti kūrybingą vertimą. „KDE programų rinkinys“ ?
+
+### Mindaugas, 2010 m. balandžio 15 d.
+Pritariu Donatui.  
+Kuo skirtųsi kalbiniu požiūriu „KDE programų rinkinys“ nuo „KDE programinio rinkinio“?
+
+### Andrius Štikonas, 2010 m. balandžio 15 d.
+Matyt šiuo atveju geriau tiktų KDE programų rinkinys, bet vis vien abiejų variantų santrumpa yra ta pati KDE P.R.
+
+### Adomas Jackevičius, 2010 m. gruodžio 25 d.
+Pasibaigus atostogoms manau reikės ir man prisidėti prie vertėjų 🙂 jeigu sugebėsiu rasti savyje valios vertimus daryti 🙂 Myliu KDE ir noriu, kad jis būtų sulietuvintas!
+
+### Andrius Štikonas, 2010 m. gruodžio 25 d.
+Prašom. Mums tikrai labai trūksta vertėjų.
+
+### viki, 2012 m. liepos 8 d.
+Esu kažką panašaus matęs <a href="http://http://lt.wikipedia.org/" rel="nofollow">wikipedijoje</a>. Tikrai įdomu&#8230;

@@ -175,3 +175,16 @@ _Sėkmės verčiant!_
  [17]: /wp-content/uploads/2009/10/lokalize5-editview2.png
  [18]: {{< relref "vertimo-vadovas" >}}
  [19]: {{< relref "/irasai/2009-10-19-kde-vertime-nuo-4-4-versijos-bus-keturios-daugiskaitos-formos.md" >}}
+
+## Komentarai
+
+### Tomas, 2009 m. gruodžio 20 d.
+Šiame dokumente parašyta, kad pačiam .po failiukų nereikia svncommitinti, kad reikia pakeistus .po failiukus siųsti koordinatoriui. Taigi klausimas: kur galima sužinoti, kas šiuo metu yra vertėjų komandos koordinatorius?
+
+Ačiū
+
+### Mindaugas, 2010 m. sausio 26 d.
+Šiuo metu vertimų koordinatorius yra Andrius Š. Jo el. p. yra stikonas (kilpelė) gmail (taškas) com
+
+### Sandra, 2013 m. gegužės 31 d.
+Ačiū už info &#8211; pati tikrai nesusigaudyčiau..
