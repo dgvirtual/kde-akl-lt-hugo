@@ -10,6 +10,13 @@ menu:
 ---
 Šiame puslapyje rasite specifinius KDE terminus. Juos galite atsisiųsti:
 
+- **slovo:** [kde-specifiniai-terminai.dwa](/newp/zodynai/generuoti/kde-specifiniai-terminai.dwa) (atnaujintas:
+  2008-09-05)
+- **gettext (po):** [kde-specifiniai-terminai.po](/newp/zodynai/generuoti/kde-specifiniai-terminai.po) (atnaujintas:
+  2021-08-27)
+- **tmx:** [kde-specifiniai-terminai.tmx](/newp/zodynai/generuoti/kde-specifiniai-terminai.tmx) (atnaujintas:
+  2008-09-05)
+
 arba peržiūrėti žemiau.
 
 Šie terminai prieinami ir programos Lokalize naudojamu formatu Transpation Base eXchange. Šis žodynas yra KDE SVN repozitorijoje, jį taip pat galima atsisiųsti: 
@@ -20,5 +27,153 @@ arba peržiūrėti žemiau.
 
 Šiame terminyne nurodyti tik tie terminai, kuriuos rekomenduodami susiauriname aukščiau nurodytame žodyne pateiktus pasirinkimus (tokiais atvejais prieš naudotiną terminą įrašoma žyma [KDE:]), arba tie terminai, kurių minėtame žodyne nėra (tokiu atveju ir pats terminas apskliaudžiamas kartu su KDE žyma, pvz., _binding_ | _[KDE: sietis]_ .
 
+| Angliškas terminas                             | Lietuviškas vertimas                                                                                                 |
+|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| accelerator		                                  | [KDE: prieigos klavišų žymė]		                                                                                       |
+| advanced user		                                | patyręs naudotojas [KDE: vartotojas]		                                                                               |
+| advanced settings		                            | [KDE: sudėtingesni nustatymai]		                                                                                     |
+| alarm		                                        | pavojaus signalas, [KDE: priminimas (pim programose)]		                                                              |
+| animated GIF file		                            | animacinė GIF rinkmena [KDE:] animacinis GIF failas		                                                                |
+| applet		                                       | programėlė, [KDE: įskiepis]		                                                                                        |
+| archive file		                                 | archyvo rinkmena, archyvo [KDE:] failas; archyvuotinoji rinkmena, archyvuotinasis failas; pakas, pakuotasis failas		 |
+| archive		                                      | archyvas, pakas, pakuotasis [KDE:] failas		                                                                          |
+| ASCII file		                                   | tekstinė rinkmena, [KDE:] tekstinis failas		                                                                         |
+| attach		                                       | pridėti, [KDE: prisegti], pridėti [KDE: prisegti] priedą		                                                           |
+| attachment		                                   | priedas, [KDE: priesaga]		                                                                                           |
+| audio file		                                   | garso rinkmena, [KDE:] garso failas		                                                                                |
+| batch file		                                   | komandų rinkmena, [KDE:] komandų failas		                                                                            |
+| behavior		                                     | [KDE: elgsena]		                                                                                                     |
+| binary file		                                  | dvejetainė rinkmena, [KDE:] dvejetainis failas		                                                                     |
+| binding		                                      | [KDE: sietis]		                                                                                                      |
+| bookmark		                                     | adresas, [KDE: žymelė]; įrašyti į adresyną [KDE: žymeles]; žymė		                                                    |
+| bookmark as		                                  | įrašyti į adresyną [KDE: žymeles] kaip		                                                                             |
+| bookmarks		                                    | adresynas [KDE: žymelės]		                                                                                           |
+| boot file		                                    | paleidimo rinkmena, [KDE:] paleidimo failas		                                                                        |
+| bounce keys		                                  | [KDE: klavišų pasikartojimo kontrolė (jei tinka kontekste)]		                                                        |
+| browse		                                       | parinkti, [KDE: naršyti]		                                                                                           |
+| bug		                                          | klaida, [KDE: yda], klaida [KDE: yda] programoje; riktas [KDE: yda]		                                                |
+| CAB file		                                     | CAB rinkmena, [KDE:] CAB failas		                                                                                    |
+| cabinet file		                                 | CAB rinkmena, [KDE:] CAB failas		                                                                                    |
+| cache memory		                                 | podėlis, [KDE: krepšys], spartinančioji atmintinė		                                                                  |
+| cache		                                        | podėlis, [KDE: krepšys], spartinančioji atmintinė		                                                                  |
+| catalogue		                                    | [KDE: katalogas]		                                                                                                   |
+| click		                                        | [KDE:] spragtelėti, spustelėti		                                                                                     |
+| compare files		                                | palyginti rinkmenas, [KDE:] palyginti failus		                                                                       |
+| configuration		                                | sąranka, [KDE:] konfigūracija		                                                                                      |
+| configure		                                    | [KDE: konfigūruoti]		                                                                                                |
+| crash		                                        | [KDE: (programos) lūžimas]		                                                                                         |
+| daemon		                                       | [KDE: tarnyba (o ne: demonas)]		                                                                                     |
+| default user		                                 | numatytasis naudotojas [KDE: vartotojas]		                                                                           |
+| directory server		                             | katalogų serveris, [KDE: aplankų serveris]		                                                                         |
+| directory tree		                               | katalogų medis, [KDE: aplankų medis]		                                                                               |
+| directory		                                    | katalogas, [KDE: aplankas]		                                                                                         |
+| distribution		                                 | paskirsta, [KDE: distributyvas], platinamasis paketas, platinamoji programa		                                        |
+| dock		                                         | [KDE: prišlieti, pritvirtinti]		                                                                                     |
+| docking		                                      | lango pritvirtinimas, [KDE: prišliejimas]		                                                                          |
+| e-mail		                                       | elektroninis laiškas, [KDE: e. laiškas]; elektroninis paštas, [KDE: e. paštas]		                                     |
+| end of file		                                  | rinkmenos pabaiga, [KDE:] failo pabaiga		                                                                            |
+| end user		                                     | galutinis naudotojas [KDE: vartotojas]		                                                                             |
+| enhance		                                      | [KDE: išplėsti]		                                                                                                    |
+| environment		                                  | aplinka, [KDE: terpė, aplinka]		                                                                                     |
+| executable file		                              | vykdomoji rinkmena, [KDE:] vykdomasis failas		                                                                       |
+| extension		                                    | prievardis, [KDE: plėtinys (bylos)]		                                                                                |
+| fancy		                                        | [KDE: įmantrus]		                                                                                                    |
+| favicon		                                      | [KDE: srities ženkliukas]		                                                                                          |
+| file allocation system		                       | rinkmenų išdėstymo sistema, [KDE:] failų išdėstymo sistema		                                                         |
+| file attribute		                               | rinkmenos požymis, [KDE:] failo požymis		                                                                            |
+| file format		                                  | rinkmenos formatas, [KDE:] failo formatas		                                                                          |
+| file manager		                                 | rinkmenų tvarkytuvė, [KDE:] failų tvarkytuvė		                                                                       |
+| file recovery		                                | rinkmenų atkūrimas, [KDE:] failų atkūrimas		                                                                         |
+| file server		                                  | rinkmenų serveris, [KDE:] failų serveris		                                                                           |
+| file system		                                  | rinkmenų išdėstymo sistema, [KDE:] failų išdėstymo sistema		                                                         |
+| file type		                                    | rinkmenos tipas, [KDE:] failo tipas		                                                                                |
+| file virus		                                   | rinkmenų virusas, [KDE:] failų virusas		                                                                             |
+| file		                                         | rinkmena, [KDE:] failas		                                                                                            |
+| gateway		                                      | tinklų sietuvas [KDE: vartai]		                                                                                      |
+| GIF file		                                     | GIF rinkmena, [KDE:] GIF failas		                                                                                    |
+| graphic file		                                 | grafikos rinkmena, [KDE:] grafikos failas		                                                                          |
+| graphics interchange format file		             | GIF rinkmena, [KDE:] GIF failas		                                                                                    |
+| help file		                                    | žinyno rinkmena, [KDE:] žinyno failas		                                                                              |
+| hibernate		                                    | [KDE: sustabdyti]		                                                                                                  |
+| hidden file		                                  | slepiamoji rinkmena, [KDE:] slepiamasis failas		                                                                     |
+| host		                                         | [KDE: mazgas]		                                                                                                      |
+| icon		                                         | piktograma [KDE: ženkliukas, o ne: ikona, paveikslėlis]		                                                            |
+| iconify		                                      | [KDE: sutraukti į ženkliuką ??]		                                                                                    |
+| identity		                                     | [KDE: tapatybė, o ne: identiškumas]		                                                                                |
+| image		                                        | atvaizdis, paveikslas, [KDE: paveiksliukas]		                                                                        |
+| initialization file		                          | pradinių nuostatų rinkmena, [KDE:] pradinių nuostatų failas		                                                        |
+| initialize		                                   | [KDE: startuoti]		                                                                                                   |
+| JAR file		                                     | JAR rinkmena, [KDE:] JAR failas		                                                                                    |
+| Java archive file		                            | JAR rinkmena, [KDE:] JAR failas		                                                                                    |
+| JPEG (Joint Photographic Experts Group) file		 | JPEG rinkmena, [KDE:] JPEG failas		                                                                                  |
+| keyboard shortcut		                            | [KDE: greitųjų klavišų derinys ??]		                                                                                 |
+| kio slave		                                    | [KDE: pagalbinė programa (kio)]			                                                                                   |
+| launcher		                                     | {KDE: leistukas]		                                                                                                   |
+| long file name		                               | ilgasis rinkmenos vardas, [KDE:] ilgasis failo vardas		                                                              |
+| lower window		                                 | [KDE: perkelti langą į antrą planą]		                                                                                |
+| mailing list		                                 | adresatų sąrašas; elektroninio pašto grupė, [KDE: pašto sąrašas]		                                                   |
+| maximize		                                     | išskleisti langą, [KDE: išdidinti langą]		                                                                           |
+| metafile		                                     | metarinkmena, [KDE:] matafailas		                                                                                    |
+| minimize		                                     | suskleisti langą [KDE: sumažinti langą]		                                                                            |
+| mixer		                                        | [KDE: (garso) maišytuvas]		                                                                                          |
+| note		                                         | [KDE: lapelis, lipnus lapelis]		                                                                                     |
+| orphan file		                                  | pamesta rinkmena, [KDE:] pamestas failas		                                                                           |
+| panel		                                        | [KDE:] pultas, skydelis		                                                                                            |
+| parent directory		                             | virškatalogis, [KDE: aukštesnio lygmens aplankas]		                                                                  |
+| parent folder		                                | viršaplankis, [KDE: aukštesnio lygmens aplankas]		                                                                   |
+| parse		                                        | [KDE: analizuoti]		                                                                                                  |
+| parser		                                       | [KDE: analizuotuvė]		                                                                                                |
+| pattern		                                      | [KDE: derinys]		                                                                                                     |
+| pipe		                                         | [KDE: kanalas]		                                                                                                     |
+| placeholder		                                  | rezervuota vieta, vietaženklis [KDE: pakaitos simbolis]		                                                            |
+| plug-in		                                      | papildinys [KDE: priedas, o ne: įskiepis]		                                                                          |
+| port		                                         | prievadas; [KDE: programos realizavimas (konkrečioje OS)]		                                                          |
+| preference		                                   | nuostata [KDE: pasirinkimas (kartais) prioritetai, o ne: parinktys, pasirinktys], parinktis		                        |
+| print to file		                                | spausdinti į rinkmeną [KDE: failą]		                                                                                 |
+| privacy policy		                               | privatumo politika [KDE: privatumo taisyklės]		                                                                      |
+| proxy server		                                 | įgaliotasis serveris, [KDE: atstovaujantis serveris]		                                                               |
+| proxy		                                        | įgaliotasis serveris, [KDE: atstovaujantis serveris]; įgaliotoji programa		                                          |
+| raise window		                                 | [KDE: perkelti langą į pirmą planą]		                                                                                |
+| read-only file		                               | nekeičiamoji rinkmena, [KDE:] nekeičiamasis failas		                                                                 |
+| recursively		                                  | [KDE: rekursyviai, ᳫaitant poaplankius]		                                                                            |
+| regular expression		                           | reguliarusis reiškinys, [KDE: įprastoji išraiška]		                                                                  |
+| resource file		                                | išteklių rinkmena, [KDE:] išteklių failas		                                                                          |
+| RSS feed		                                     | [KDE: RSS kanalas]		                                                                                                 |
+| scroll bar		                                   | slankjuostė, [KDE: slinkties juosta]		                                                                               |
+| security policy		                              | saugumo politika, [KDE:] saugumo taisyklės		                                                                         |
+| selfextracting file		                          | išsipakuojanti rinkmena, [KDE:] išsipakuojantis failas		                                                             |
+| setting		                                      | nustata, [KDE: nustatymas – dgs. – nustatymai]		                                                                     |
+| shade window		                                 | [KDE: rodyti tik lango antraštės juostą]		                                                                           |
+| short file name		                              | trumpasis rinkmenos vardas, [KDE:] trumpasis failo vardas		                                                          |
+| sidebar		                                      | parankinė, [KDE: šoninė juosta]		                                                                                    |
+| system bell		                                  | [KDE: sistemos skambutis]		                                                                                          |
+| system file		                                  | sisteminė rinkmena, [KDE:] sisteminis failas		                                                                       |
+| smart view		                                   | [KDE: išmoningas rodymas]		                                                                                          |
+| snippet		                                      | [KDE: (kodo) ištrauka]		                                                                                             |
+| socket		                                       | [KDE: lizdas]		                                                                                                      |
+| source file		                                  | pirminė rinkmena, [KDE:] pirminis failas		                                                                           |
+| spooling		                                     | [KDE: kaupa]		                                                                                                       |
+| stand by		                                     | pristabdyti; [KDE: budėti]		                                                                                         |
+| suspend		                                      | [KDE: užmigdyti]		                                                                                                   |
+| swap file		                                    | sukeitimų rinkmena, [KDE:] sukeitimų failas		                                                                        |
+| task bar		                                     | programų juosta, [KDE:] užduočių juosta		                                                                            |
+| task		                                         | [KDE:] užduotis [o ne: darbas, atliktinas darbas]		                                                                  |
+| text file		                                    | tekstinė rinkmena, [KDE:] tekstinis failas		                                                                         |
+| thumbnail		                                    | [KDE:] miniatiūra [o ne: ženkliukas]		                                                                               |
+| to-do		                                        | [KDE: darbas, o ne: užduotis]		                                                                                      |
+| todo		                                         | [KDE: darbas, o ne: užduotis]		                                                                                      |
+| toolbar		                                      | mygtukų juosta, [KDE: įrankių juosta]		                                                                              |
+| troubleshooting		                              | [KDE: sutrikimų šalinimas]		                                                                                         |
+| tutorial		                                     | [KDE: vadovas]                                                                                                       
+ unshade window		                               |
+| user interface		                               | naudotojo [KDE: vartotojo] sąsaja		                                                                                  |
+| user name		                                    | abonento vardas, naudotojo [KDE: vartotojas] vardas, paskyros vardas, registracijos vardas		                         |
+| user		                                         | abonentas, naudotojas, [KDE: vartotojas]		                                                                           |
+| video file		                                   | vaizdo rinkmena, [KDE:] vaizdo failas		                                                                              |
+| view		                                         | peržiūrėti, rodinys, [KDE: vaizdas], rodymas		                                                                       |
+| web shortcut		                                 | [KDE: žiniatinklio trumpė]		                                                                                         |
+| wizard		                                       | [KDE:] vediklis [o ne: vedlys]		                                                                                     |
+| wrapper		                                      | [KDE: įdėklas]		                                                                                                     |
+
  [1]: http://websvn.kde.org/*checkout*/trunk/l10n-support/lt/terms.tbx
- [2]: http://www.likit.lt/?i=terminija/ang-liet_k_zodynas
+ [2]: http://www.ims.mii.lt/ALKŽ/

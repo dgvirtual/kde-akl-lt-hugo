@@ -1,0 +1,1184 @@
+<?xml version="1.0"?>
+<!-- formato specifikacija: http://www.lisa.org/standards/tmx/tmx.html -->
+<tmx version="1.4"> 
+<header
+	creationtool="KDE_Lith_Script"
+	creationtoolversion="0.1"
+	datatype="PlainText"
+	segtype="sentence"
+	adminlang="LT"
+	srclang="LT"
+	o-tmf="csv, dwa"
+	creationdate="20051111T163812Z"
+	changedate="20080905T034447Z"
+	o-encoding="windows-1257"
+>
+	<note>
+		Anglų-lietuvių kalbų kompiuterinės leksikos žodynas, papildytas KDE vertėjų į lietuvių kalbą komandos 
+		Žodyno autoriai: Valentina Dagienė, Gintautas Grigas, Tatjana Jevsikova
+		Pastabas ir pasiūlymus galite teikti e. p. adresu: dagiene@ktl.mii.lt
+		Daugiau informacijos apie žodyną rasite žodyno 
+		interneto svetainėje 
+		http://www.likit.lt/?i=terminija/ang-liet_k_zodynas 
+		Visi žodyno pakeitimai pažymėti taip: [KDE: /terminas/]
+		Žodyno papildymai: (c) KDE lietuvinimo komanda
+		į tmx formatą žodyną konvertavo
+		Donatas Glodenis (dgvirtual@akl.lt), (c) 2005.
+	</note>
+</header>
+<body>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>accelerator</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: prieigos klavišų žymė]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>advanced user</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>patyręs naudotojas [KDE: vartotojas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>advanced settings</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: sudėtingesni nustatymai]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>alarm</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>pavojaus signalas, [KDE: priminimas (pim programose)]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>animated GIF file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>animacinė GIF rinkmena [KDE:] animacinis GIF failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>applet</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>programėlė, [KDE: įskiepis]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>archive file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>archyvo rinkmena, archyvo [KDE:] failas; archyvuotinoji rinkmena, archyvuotinasis failas; pakas, pakuotasis failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>archive</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>archyvas, pakas, pakuotasis [KDE:] failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>ASCII file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>tekstinė rinkmena, [KDE:] tekstinis failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>attach</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>pridėti, [KDE: prisegti], pridėti [KDE: prisegti] priedą</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>attachment</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>priedas, [KDE: priesaga]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>audio file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>garso rinkmena, [KDE:] garso failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>batch file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>komandų rinkmena, [KDE:] komandų failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>behavior</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: elgsena]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>binary file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>dvejetainė rinkmena, [KDE:] dvejetainis failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>binding</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: sietis]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>bookmark</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>adresas, [KDE: žymelė]; įrašyti į adresyną [KDE: žymeles]; žymė</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>bookmark as</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>įrašyti į adresyną [KDE: žymeles] kaip</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>bookmarks</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>adresynas [KDE: žymelės]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>boot file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>paleidimo rinkmena, [KDE:] paleidimo failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>bounce keys</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: klavišų pasikartojimo kontrolė (jei tinka kontekste)]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>browse</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>parinkti, [KDE: naršyti]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>bug</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>klaida, [KDE: yda], klaida [KDE: yda] programoje; riktas [KDE: yda]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>CAB file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>CAB rinkmena, [KDE:] CAB failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>cabinet file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>CAB rinkmena, [KDE:] CAB failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>cache memory</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>podėlis, [KDE: krepšys], spartinančioji atmintinė</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>cache</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>podėlis, [KDE: krepšys], spartinančioji atmintinė</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>catalogue</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: katalogas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>click</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE:] spragtelėti, spustelėti</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>compare files</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>palyginti rinkmenas, [KDE:] palyginti failus</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>configuration</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>sąranka, [KDE:] konfigūracija</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>configure</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: konfigūruoti]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>crash</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: (programos) lūžimas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>daemon</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: tarnyba (o ne: demonas)]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>default user</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>numatytasis naudotojas [KDE: vartotojas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>directory server</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>katalogų serveris, [KDE: aplankų serveris]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>directory tree</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>katalogų medis, [KDE: aplankų medis]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>directory</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>katalogas, [KDE: aplankas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>distribution</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>paskirsta, [KDE: distributyvas], platinamasis paketas, platinamoji programa</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>dock</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: prišlieti, pritvirtinti]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>docking</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>lango pritvirtinimas, [KDE: prišliejimas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>e-mail</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>elektroninis laiškas, [KDE: e. laiškas]; elektroninis paštas, [KDE: e. paštas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>end of file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>rinkmenos pabaiga, [KDE:] failo pabaiga</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>end user</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>galutinis naudotojas [KDE: vartotojas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>enhance</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: išplėsti]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>environment</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>aplinka, [KDE: terpė, aplinka]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>executable file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>vykdomoji rinkmena, [KDE:] vykdomasis failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>extension</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>prievardis, [KDE: plėtinys (bylos)]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>fancy</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: įmantrus]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>favicon</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: srities ženkliukas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>file allocation system</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>rinkmenų išdėstymo sistema, [KDE:] failų išdėstymo sistema</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>file attribute</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>rinkmenos požymis, [KDE:] failo požymis</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>file format</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>rinkmenos formatas, [KDE:] failo formatas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>file manager</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>rinkmenų tvarkytuvė, [KDE:] failų tvarkytuvė</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>file recovery</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>rinkmenų atkūrimas, [KDE:] failų atkūrimas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>file server</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>rinkmenų serveris, [KDE:] failų serveris</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>file system</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>rinkmenų išdėstymo sistema, [KDE:] failų išdėstymo sistema</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>file type</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>rinkmenos tipas, [KDE:] failo tipas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>file virus</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>rinkmenų virusas, [KDE:] failų virusas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>rinkmena, [KDE:] failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>gateway</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>tinklų sietuvas [KDE: vartai]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>GIF file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>GIF rinkmena, [KDE:] GIF failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>graphic file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>grafikos rinkmena, [KDE:] grafikos failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>graphics interchange format file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>GIF rinkmena, [KDE:] GIF failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>help file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>žinyno rinkmena, [KDE:] žinyno failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>hibernate</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: sustabdyti]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>hidden file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>slepiamoji rinkmena, [KDE:] slepiamasis failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>host</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: mazgas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>icon</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>piktograma [KDE: ženkliukas, o ne: ikona, paveikslėlis]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>iconify</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: sutraukti į ženkliuką ??]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>identity</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: tapatybė, o ne: identiškumas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>image</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>atvaizdis, paveikslas, [KDE: paveiksliukas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>initialization file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>pradinių nuostatų rinkmena, [KDE:] pradinių nuostatų failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>initialize</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: startuoti]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>JAR file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>JAR rinkmena, [KDE:] JAR failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>Java archive file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>JAR rinkmena, [KDE:] JAR failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>JPEG (Joint Photographic Experts Group) file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>JPEG rinkmena, [KDE:] JPEG failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>keyboard shortcut</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: greitųjų klavišų derinys ??]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>kio slave</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: pagalbinė programa (kio)]	</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>launcher</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>{KDE: leistukas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>long file name</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>ilgasis rinkmenos vardas, [KDE:] ilgasis failo vardas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>lower window</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: perkelti langą į antrą planą]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>mailing list</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>adresatų sąrašas; elektroninio pašto grupė, [KDE: pašto sąrašas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>maximize</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>išskleisti langą, [KDE: išdidinti langą]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>metafile</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>metarinkmena, [KDE:] matafailas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>minimize</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>suskleisti langą [KDE: sumažinti langą]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>mixer</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: (garso) maišytuvas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>note</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: lapelis, lipnus lapelis]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>orphan file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>pamesta rinkmena, [KDE:] pamestas failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>panel</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE:] pultas, skydelis</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>parent directory</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>virškatalogis, [KDE: aukštesnio lygmens aplankas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>parent folder</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>viršaplankis, [KDE: aukštesnio lygmens aplankas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>parse</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: analizuoti]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>parser</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: analizuotuvė]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>pattern</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: derinys]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>pipe</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: kanalas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>placeholder</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>rezervuota vieta, vietaženklis [KDE: pakaitos simbolis]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>plug-in</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>papildinys [KDE: priedas, o ne: įskiepis]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>port</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>prievadas; [KDE: programos realizavimas (konkrečioje OS)]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>preference</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>nuostata [KDE: pasirinkimas (kartais) prioritetai, o ne: parinktys, pasirinktys], parinktis</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>print to file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>spausdinti į rinkmeną [KDE: failą]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>privacy policy</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>privatumo politika [KDE: privatumo taisyklės]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>proxy server</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>įgaliotasis serveris, [KDE: atstovaujantis serveris]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>proxy</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>įgaliotasis serveris, [KDE: atstovaujantis serveris]; įgaliotoji programa</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>raise window</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: perkelti langą į pirmą planą]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>read-only file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>nekeičiamoji rinkmena, [KDE:] nekeičiamasis failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>recursively</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: rekursyviai, ᳫaitant poaplankius]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>regular expression</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>reguliarusis reiškinys, [KDE: įprastoji išraiška]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>resource file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>išteklių rinkmena, [KDE:] išteklių failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>RSS feed</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: RSS kanalas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>scroll bar</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>slankjuostė, [KDE: slinkties juosta]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>security policy</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>saugumo politika, [KDE:] saugumo taisyklės</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>selfextracting file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>išsipakuojanti rinkmena, [KDE:] išsipakuojantis failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>setting</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>nustata, [KDE: nustatymas - dgs. - nustatymai]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>shade window</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: rodyti tik lango antraštės juostą]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>short file name</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>trumpasis rinkmenos vardas, [KDE:] trumpasis failo vardas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>sidebar</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>parankinė, [KDE: šoninė juosta]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>system bell</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: sistemos skambutis]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>system file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>sisteminė rinkmena, [KDE:] sisteminis failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>smart view</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: išmoningas rodymas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>snippet</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: (kodo) ištrauka]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>socket</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: lizdas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>source file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>pirminė rinkmena, [KDE:] pirminis failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>spooling</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: kaupa]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>stand by</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>pristabdyti; [KDE: budėti]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>suspend</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: užmigdyti]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>swap file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>sukeitimų rinkmena, [KDE:] sukeitimų failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>task bar</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>programų juosta, [KDE:] užduočių juosta</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>task</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE:] užduotis [o ne: darbas, atliktinas darbas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>text file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>tekstinė rinkmena, [KDE:] tekstinis failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>thumbnail</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE:] miniatiūra [o ne: ženkliukas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>to-do</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: darbas, o ne: užduotis]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>todo</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: darbas, o ne: užduotis]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>toolbar</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>mygtukų juosta, [KDE: įrankių juosta]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>troubleshooting</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: sutrikimų šalinimas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>tutorial</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: vadovas]
+unshade window</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>user interface</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>naudotojo [KDE: vartotojo] sąsaja</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>user name</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>abonento vardas, naudotojo [KDE: vartotojas] vardas, paskyros vardas, registracijos vardas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>user</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>abonentas, naudotojas, [KDE: vartotojas]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>video file</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>vaizdo rinkmena, [KDE:] vaizdo failas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>view</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>peržiūrėti, rodinys, [KDE: vaizdas], rodymas</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>web shortcut</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: žiniatinklio trumpė]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>wizard</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE:] vediklis [o ne: vedlys]</seg>
+		</tuv>
+	</tu>
+	<tu>
+		<tuv xml:lang="EN">
+			<seg>wrapper</seg>
+		</tuv>
+		<tuv xml:lang="LT">
+			<seg>[KDE: įdėklas]</seg>
+		</tuv>
+	</tu>
+</body>
+</tmx>

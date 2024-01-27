@@ -1,0 +1,600 @@
+# Anglų-lietuvių kalbų kompiuterinės leksikos žodynas, papildytas KDE vertėjų į lietuvių kalbą komandos  
+# Žodyno autoriai: Valentina Dagienė, Gintautas Grigas, Tatjana Jevsikova
+# Pastabas ir pasiūlymus galite teikti e. p. adresu: dagiene@ktl.mii.lt
+# Daugiau informacijos apie žodyną rasite žodyno 
+# interneto svetainėje 
+# http://www.likit.lt/?i=terminija/ang-liet_k_zodynas 
+# Visi žodyno pakeitimai pažymėti taip: [KDE: /terminas/]
+# Žodyno papildymai: (c) KDE lietuvinimo komanda
+# į tmx formatą žodyną konvertavo
+# Donatas Glodenis (dgvirtual@akl.lt), (c) 2005.
+msgid ""
+msgstr ""
+"Project-Id-Version: KDE_terminynas\n"
+"POT-Creation-Date: 2005-11-14 01:34+0200\n"
+"PO-Revision-Date: 2021-08-27 15:50+0300\n"
+"Last-Translator: Donatas Glodenis <dgvirtual@akl.lt>\n"
+"Language-Team: Lithuanian <kde-i18n-lt@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KDE Lithuanian translation Website script\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>"
+"=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#:
+msgid "accelerator"
+msgstr "[KDE: prieigos klavišų žymė]"
+
+#:
+msgid "advanced user"
+msgstr "patyręs naudotojas [KDE: vartotojas]"
+
+#:
+msgid "advanced settings"
+msgstr "[KDE: sudėtingesni nustatymai]"
+
+#:
+msgid "alarm"
+msgstr "pavojaus signalas, [KDE: priminimas (pim programose)]"
+
+#:
+msgid "animated GIF file"
+msgstr "animacinė GIF rinkmena [KDE:] animacinis GIF failas"
+
+#:
+msgid "applet"
+msgstr "programėlė, [KDE: įskiepis]"
+
+#:
+msgid "archive file"
+msgstr "archyvo rinkmena, archyvo [KDE:] failas; archyvuotinoji rinkmena, archyvuotinasis failas; pakas, pakuotasis failas"
+
+#:
+msgid "archive"
+msgstr "archyvas, pakas, pakuotasis [KDE:] failas"
+
+#:
+msgid "ASCII file"
+msgstr "tekstinė rinkmena, [KDE:] tekstinis failas"
+
+#:
+msgid "attach"
+msgstr "pridėti, [KDE: prisegti], pridėti [KDE: prisegti] priedą"
+
+#:
+msgid "attachment"
+msgstr "priedas, [KDE: priesaga]"
+
+#:
+msgid "audio file"
+msgstr "garso rinkmena, [KDE:] garso failas"
+
+#:
+msgid "batch file"
+msgstr "komandų rinkmena, [KDE:] komandų failas"
+
+#:
+msgid "behavior"
+msgstr "[KDE: elgsena]"
+
+#:
+msgid "binary file"
+msgstr "dvejetainė rinkmena, [KDE:] dvejetainis failas"
+
+#:
+msgid "binding"
+msgstr "[KDE: sietis]"
+
+#:
+msgid "bookmark"
+msgstr "adresas, [KDE: žymelė]; įrašyti į adresyną [KDE: žymeles]; žymė"
+
+#:
+msgid "bookmark as"
+msgstr "įrašyti į adresyną [KDE: žymeles] kaip"
+
+#:
+msgid "bookmarks"
+msgstr "adresynas [KDE: žymelės]"
+
+#:
+msgid "boot file"
+msgstr "paleidimo rinkmena, [KDE:] paleidimo failas"
+
+#:
+msgid "bounce keys"
+msgstr "[KDE: klavišų pasikartojimo kontrolė (jei tinka kontekste)]"
+
+#:
+msgid "browse"
+msgstr "parinkti, [KDE: naršyti]"
+
+#:
+msgid "bug"
+msgstr "klaida, [KDE: yda], klaida [KDE: yda] programoje; riktas [KDE: yda]"
+
+#:
+msgid "CAB file"
+msgstr "CAB rinkmena, [KDE:] CAB failas"
+
+#:
+msgid "cabinet file"
+msgstr "CAB rinkmena, [KDE:] CAB failas"
+
+#:
+msgid "cache memory"
+msgstr "podėlis, [KDE: krepšys], spartinančioji atmintinė"
+
+#:
+msgid "cache"
+msgstr "podėlis, [KDE: krepšys], spartinančioji atmintinė"
+
+#:
+msgid "catalogue"
+msgstr "[KDE: katalogas]"
+
+#:
+msgid "click"
+msgstr "[KDE:] spragtelėti, spustelėti"
+
+#:
+msgid "compare files"
+msgstr "palyginti rinkmenas, [KDE:] palyginti failus"
+
+#:
+msgid "configuration"
+msgstr "sąranka, [KDE:] konfigūracija"
+
+#:
+msgid "configure"
+msgstr "[KDE: konfigūruoti]"
+
+#:
+msgid "crash"
+msgstr "[KDE: (programos) lūžimas]"
+
+#:
+msgid "daemon"
+msgstr "[KDE: tarnyba (o ne: demonas)]"
+
+#:
+msgid "default user"
+msgstr "numatytasis naudotojas [KDE: vartotojas]"
+
+#:
+msgid "directory server"
+msgstr "katalogų serveris, [KDE: aplankų serveris]"
+
+#:
+msgid "directory tree"
+msgstr "katalogų medis, [KDE: aplankų medis]"
+
+#:
+msgid "directory"
+msgstr "katalogas, [KDE: aplankas]"
+
+#:
+msgid "distribution"
+msgstr "paskirsta, [KDE: distributyvas], platinamasis paketas, platinamoji programa"
+
+#:
+msgid "dock"
+msgstr "[KDE: prišlieti, pritvirtinti]"
+
+#:
+msgid "docking"
+msgstr "lango pritvirtinimas, [KDE: prišliejimas]"
+
+#:
+msgid "e-mail"
+msgstr "elektroninis laiškas, [KDE: e. laiškas]; elektroninis paštas, [KDE: e. paštas]"
+
+#:
+msgid "end of file"
+msgstr "rinkmenos pabaiga, [KDE:] failo pabaiga"
+
+#:
+msgid "end user"
+msgstr "galutinis naudotojas [KDE: vartotojas]"
+
+#:
+msgid "enhance"
+msgstr "[KDE: išplėsti]"
+
+#:
+msgid "environment"
+msgstr "aplinka, [KDE: terpė, aplinka]"
+
+#:
+msgid "executable file"
+msgstr "vykdomoji rinkmena, [KDE:] vykdomasis failas"
+
+#:
+msgid "extension"
+msgstr "prievardis, [KDE: plėtinys (bylos)]"
+
+#:
+msgid "fancy"
+msgstr "[KDE: įmantrus]"
+
+#:
+msgid "favicon"
+msgstr "[KDE: srities ženkliukas]"
+
+#:
+msgid "file allocation system"
+msgstr "rinkmenų išdėstymo sistema, [KDE:] failų išdėstymo sistema"
+
+#:
+msgid "file attribute"
+msgstr "rinkmenos požymis, [KDE:] failo požymis"
+
+#:
+msgid "file format"
+msgstr "rinkmenos formatas, [KDE:] failo formatas"
+
+#:
+msgid "file manager"
+msgstr "rinkmenų tvarkytuvė, [KDE:] failų tvarkytuvė"
+
+#:
+msgid "file recovery"
+msgstr "rinkmenų atkūrimas, [KDE:] failų atkūrimas"
+
+#:
+msgid "file server"
+msgstr "rinkmenų serveris, [KDE:] failų serveris"
+
+#:
+msgid "file system"
+msgstr "rinkmenų išdėstymo sistema, [KDE:] failų išdėstymo sistema"
+
+#:
+msgid "file type"
+msgstr "rinkmenos tipas, [KDE:] failo tipas"
+
+#:
+msgid "file virus"
+msgstr "rinkmenų virusas, [KDE:] failų virusas"
+
+#:
+msgid "file"
+msgstr "rinkmena, [KDE:] failas"
+
+#:
+msgid "gateway"
+msgstr "tinklų sietuvas [KDE: vartai]"
+
+#:
+msgid "GIF file"
+msgstr "GIF rinkmena, [KDE:] GIF failas"
+
+#:
+msgid "graphic file"
+msgstr "grafikos rinkmena, [KDE:] grafikos failas"
+
+#:
+msgid "graphics interchange format file"
+msgstr "GIF rinkmena, [KDE:] GIF failas"
+
+#:
+msgid "help file"
+msgstr "žinyno rinkmena, [KDE:] žinyno failas"
+
+#:
+msgid "hibernate"
+msgstr "[KDE: sustabdyti]"
+
+#:
+msgid "hidden file"
+msgstr "slepiamoji rinkmena, [KDE:] slepiamasis failas"
+
+#:
+msgid "host"
+msgstr "[KDE: mazgas]"
+
+#:
+msgid "icon"
+msgstr "piktograma [KDE: ženkliukas, o ne: ikona, paveikslėlis]"
+
+#:
+msgid "iconify"
+msgstr "[KDE: sutraukti į ženkliuką ??]"
+
+#:
+msgid "identity"
+msgstr "[KDE: tapatybė, o ne: identiškumas]"
+
+#:
+msgid "image"
+msgstr "atvaizdis, paveikslas, [KDE: paveiksliukas]"
+
+#:
+msgid "initialization file"
+msgstr "pradinių nuostatų rinkmena, [KDE:] pradinių nuostatų failas"
+
+#:
+msgid "initialize"
+msgstr "[KDE: startuoti]"
+
+#:
+msgid "JAR file"
+msgstr "JAR rinkmena, [KDE:] JAR failas"
+
+#:
+msgid "Java archive file"
+msgstr "JAR rinkmena, [KDE:] JAR failas"
+
+#:
+msgid "JPEG (Joint Photographic Experts Group) file"
+msgstr "JPEG rinkmena, [KDE:] JPEG failas"
+
+#:
+msgid "keyboard shortcut"
+msgstr "[KDE: greitųjų klavišų derinys ??]"
+
+#:
+msgid "kio slave"
+msgstr "[KDE: pagalbinė programa (kio)]	"
+
+#:
+msgid "launcher"
+msgstr "{KDE: leistukas]"
+
+#:
+msgid "long file name"
+msgstr "ilgasis rinkmenos vardas, [KDE:] ilgasis failo vardas"
+
+#:
+msgid "lower window"
+msgstr "[KDE: perkelti langą į antrą planą]"
+
+#:
+msgid "mailing list"
+msgstr "adresatų sąrašas; elektroninio pašto grupė, [KDE: pašto sąrašas]"
+
+#:
+msgid "maximize"
+msgstr "išskleisti langą, [KDE: išdidinti langą]"
+
+#:
+msgid "metafile"
+msgstr "metarinkmena, [KDE:] matafailas"
+
+#:
+msgid "minimize"
+msgstr "suskleisti langą [KDE: sumažinti langą]"
+
+#:
+msgid "mixer"
+msgstr "[KDE: (garso) maišytuvas]"
+
+#:
+msgid "note"
+msgstr "[KDE: lapelis, lipnus lapelis]"
+
+#:
+msgid "orphan file"
+msgstr "pamesta rinkmena, [KDE:] pamestas failas"
+
+#:
+msgid "panel"
+msgstr "[KDE:] pultas, skydelis"
+
+#:
+msgid "parent directory"
+msgstr "virškatalogis, [KDE: aukštesnio lygmens aplankas]"
+
+#:
+msgid "parent folder"
+msgstr "viršaplankis, [KDE: aukštesnio lygmens aplankas]"
+
+#:
+msgid "parse"
+msgstr "[KDE: analizuoti]"
+
+#:
+msgid "parser"
+msgstr "[KDE: analizuotuvė]"
+
+#:
+msgid "pattern"
+msgstr "[KDE: derinys]"
+
+#:
+msgid "pipe"
+msgstr "[KDE: kanalas]"
+
+#:
+msgid "placeholder"
+msgstr "rezervuota vieta, vietaženklis [KDE: pakaitos simbolis]"
+
+#:
+msgid "plug-in"
+msgstr "papildinys [KDE: priedas, o ne: įskiepis]"
+
+#:
+msgid "port"
+msgstr "prievadas; [KDE: programos realizavimas (konkrečioje OS)]"
+
+#:
+msgid "preference"
+msgstr "nuostata [KDE: pasirinkimas (kartais) prioritetai, o ne: parinktys, pasirinktys], parinktis"
+
+#:
+msgid "print to file"
+msgstr "spausdinti į rinkmeną [KDE: failą]"
+
+#:
+msgid "privacy policy"
+msgstr "privatumo politika [KDE: privatumo taisyklės]"
+
+#:
+msgid "proxy server"
+msgstr "įgaliotasis serveris, [KDE: atstovaujantis serveris]"
+
+#:
+msgid "proxy"
+msgstr "įgaliotasis serveris, [KDE: atstovaujantis serveris]; įgaliotoji programa"
+
+#:
+msgid "raise window"
+msgstr "[KDE: perkelti langą į pirmą planą]"
+
+#:
+msgid "read-only file"
+msgstr "nekeičiamoji rinkmena, [KDE:] nekeičiamasis failas"
+
+#:
+msgid "recursively"
+msgstr "[KDE: rekursyviai, ᳫaitant poaplankius]"
+
+#:
+msgid "regular expression"
+msgstr "reguliarusis reiškinys, [KDE: įprastoji išraiška]"
+
+#:
+msgid "resource file"
+msgstr "išteklių rinkmena, [KDE:] išteklių failas"
+
+#:
+msgid "RSS feed"
+msgstr "[KDE: RSS kanalas]"
+
+#:
+msgid "scroll bar"
+msgstr "slankjuostė, [KDE: slinkties juosta]"
+
+#:
+msgid "security policy"
+msgstr "saugumo politika, [KDE:] saugumo taisyklės"
+
+#:
+msgid "selfextracting file"
+msgstr "išsipakuojanti rinkmena, [KDE:] išsipakuojantis failas"
+
+#:
+msgid "setting"
+msgstr "nustata, [KDE: nustatymas - dgs. - nustatymai]"
+
+#:
+msgid "shade window"
+msgstr "[KDE: rodyti tik lango antraštės juostą]"
+
+#:
+msgid "short file name"
+msgstr "trumpasis rinkmenos vardas, [KDE:] trumpasis failo vardas"
+
+#:
+msgid "sidebar"
+msgstr "parankinė, [KDE: šoninė juosta]"
+
+#:
+msgid "system bell"
+msgstr "[KDE: sistemos skambutis]"
+
+#:
+msgid "system file"
+msgstr "sisteminė rinkmena, [KDE:] sisteminis failas"
+
+#:
+msgid "smart view"
+msgstr "[KDE: išmoningas rodymas]"
+
+#:
+msgid "snippet"
+msgstr "[KDE: (kodo) ištrauka]"
+
+#:
+msgid "socket"
+msgstr "[KDE: lizdas]"
+
+#:
+msgid "source file"
+msgstr "pirminė rinkmena, [KDE:] pirminis failas"
+
+#:
+msgid "spooling"
+msgstr "[KDE: kaupa]"
+
+#:
+msgid "stand by"
+msgstr "pristabdyti; [KDE: budėti]"
+
+#:
+msgid "suspend"
+msgstr "[KDE: užmigdyti]"
+
+#:
+msgid "swap file"
+msgstr "sukeitimų rinkmena, [KDE:] sukeitimų failas"
+
+#:
+msgid "task bar"
+msgstr "programų juosta, [KDE:] užduočių juosta"
+
+#:
+msgid "task"
+msgstr "[KDE:] užduotis [o ne: darbas, atliktinas darbas]"
+
+#:
+msgid "text file"
+msgstr "tekstinė rinkmena, [KDE:] tekstinis failas"
+
+#:
+msgid "thumbnail"
+msgstr "[KDE:] miniatiūra [o ne: ženkliukas]"
+
+#:
+msgid "to-do"
+msgstr "[KDE: darbas, o ne: užduotis]"
+
+#:
+msgid "todo"
+msgstr "[KDE: darbas, o ne: užduotis]"
+
+#:
+msgid "toolbar"
+msgstr "mygtukų juosta, [KDE: įrankių juosta]"
+
+#:
+msgid "troubleshooting"
+msgstr "[KDE: sutrikimų šalinimas]"
+
+#:
+msgid "tutorial"
+msgstr "[KDE: vadovas]
+unshade window"
+
+#:
+msgid "user interface"
+msgstr "naudotojo [KDE: vartotojo] sąsaja"
+
+#:
+msgid "user name"
+msgstr "abonento vardas, naudotojo [KDE: vartotojas] vardas, paskyros vardas, registracijos vardas"
+
+#:
+msgid "user"
+msgstr "abonentas, naudotojas, [KDE: vartotojas]"
+
+#:
+msgid "video file"
+msgstr "vaizdo rinkmena, [KDE:] vaizdo failas"
+
+#:
+msgid "view"
+msgstr "peržiūrėti, rodinys, [KDE: vaizdas], rodymas"
+
+#:
+msgid "web shortcut"
+msgstr "[KDE: žiniatinklio trumpė]"
+
+#:
+msgid "wizard"
+msgstr "[KDE:] vediklis [o ne: vedlys]"
+
+#:
+msgid "wrapper"
+msgstr "[KDE: įdėklas]"
